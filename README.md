@@ -37,11 +37,3 @@ To play the Tic Tac Toe game:
 3. Players take turns clicking the empty cells to place their marks ('X' or 'O').
 4. The game will automatically determine the winner or declare a draw when the game ends.
 5. A message box will appear indicating the outcome, and you can click "OK" to play another round.
-
-
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or additional features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
