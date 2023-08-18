@@ -29,7 +29,14 @@
     the selected index.
     2. `check_winner()`: Checks for a winning combination among the marks on the board.
     3. `reset_game()`: Resets the game state, including the board and player turn.
+## Game rule
+    1. The game is played on a 3x3 grid.
+    2.Players take turns, with one player using 'X' and the other using 'O'.
+    3.A player wins if they have three of their marks in a horizontal, vertical, or diagonal row.
+    4.If the grid is filled and no player has won, the game is declared a draw.
 
+   
+   
 ## Usage
 
     To play the Tic Tac Toe game:
