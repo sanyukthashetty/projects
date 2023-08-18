@@ -1,7 +1,10 @@
 # Tic Tac Toe Game in Python
 
 ## Problem Statement
-    This project aims to create a simple implementation of the classic Tic Tac Toe game using the Tkinter library in Python.The game allows two players to take turns placing their marks('X' and '0') on a 3x3 grid until one player wins by achieving a wining combination or the game ends in a draw
+    This project aims to create a simple implementation of the classic Tic Tac Toe game using
+    the Tkinter library in Python.The game allows two players to take turns 
+    placing their marks('X' and '0') on a 3x3 grid until one player wins by achieving a
+    wining combination or the game ends in a draw
 ## Functionalities Implemented
 
 1. Display a graphical user interface (GUI) using the Tkinter library.
