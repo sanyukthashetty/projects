@@ -1,7 +1,3 @@
-Yes, adding emojis can make the README more engaging and visually appealing, especially for a project like a game. Here’s a version with emojis:
-
----
-
 # 🎮 Tic Tac Toe Game in Python
 
 ## 📋 Project Overview
@@ -47,7 +43,3 @@ The code consists of the following key components:
 ## 📝 Additional Information
 
 This project was developed by **Sanyuktha Shetty** on **14-08-2023** as part of a learning exercise at MITE. It leverages Python’s Tkinter library to create an engaging and interactive user experience.
-
----
-
-Emojis add a fun element and can help emphasize different sections, making the README more inviting.
